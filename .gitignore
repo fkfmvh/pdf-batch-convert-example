@@ -1,0 +1,13 @@
+# Personal documents and generated conversion output
+*.hwp
+*.hwpx
+*.doc
+*.docx
+*.pdf
+*.csv
+**/PDF 결과/
+**/변환 기록/
+.converting-*
+*.zip
+Thumbs.db
+Desktop.ini
