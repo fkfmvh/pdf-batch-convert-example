@@ -1,0 +1,4 @@
+interface:
+  display_name: "한글·Word PDF 변환"
+  short_description: "한글·Word 문서를 원본 보존 규칙에 따라 PDF로 일괄 변환"
+  default_prompt: "$pdf-batch-convert 스킬로 지정한 폴더의 한글·Word 문서를 PDF로 변환해줘."
